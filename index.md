@@ -64,7 +64,7 @@ available in:
 {:/}
 
 ![tree control: a list of items with one of the list items expanded to
-show a sub-list]({{site.github.url}}/images/tree-nav.png)
+show a sub-list]({{site.github.url}}/content-images/wai-intro-aria/tree-nav.png)
 
 {::nomarkdown}
 {% include box.html type="end" %}
