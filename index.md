@@ -1,7 +1,6 @@
 ---
 title: WAI-ARIA
-permalink: /standards-guidelines/aria/
-redirect_from: /
+permalink: /standards/aria/
 layout: default
 ---
 
