@@ -2,5 +2,5 @@
 
 Current Preview:
 
-https://w3c.github.io/wai-intro-aria/
+https://w3c.github.io/wai-intro-aria/standards-guidelines/aria/
 
