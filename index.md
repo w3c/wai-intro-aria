@@ -2,6 +2,8 @@
 title: WAI-ARIA
 permalink: /standards-guidelines/aria/
 layout: default
+github:
+  repository: w3c/wai-intro-aria
 ---
 
 {::options toc_levels="2" /}
