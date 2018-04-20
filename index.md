@@ -1,10 +1,25 @@
 ---
-title: WAI-ARIA
+title: WAI-ARIA Overview
 permalink: /standards-guidelines/aria/
 layout: default
 github:
   repository: w3c/wai-intro-aria
 ---
+
+{::nomarkdown}
+{% include box.html type="start" h="2" title="Summary" class="full" %}
+{:/}
+
+This page introduces the WAI-ARIA, the Accessible Rich Internet Applications suite of web standards.
+
+Quick links to resources:
+* [WAI-ARIA](/TR/wai-aria/)
+* [User Agent Implementation Guide](/TR/wai-aria-implementation/)
+* [FAQ](/WAI/aria/faq) - including [What is the current status of WAI-ARIA development?](/WAI/aria/faq#update)
+
+{::nomarkdown}
+{% include box.html type="end" %}
+{:/}
 
 {::options toc_levels="2" /}
 
@@ -18,12 +33,6 @@ github:
 {::nomarkdown}
 {% include_cached toc.html type="end" %}
 {:/}
-
-Quick links: [WAI-ARIA](/TR/wai-aria/), [User Agent Implementation
-Guide](/TR/wai-aria-implementation/), [FAQ](/WAI/aria/faq)
-
-[**See also [FAQ: What is the current status of WAI-ARIA
-development?](/WAI/aria/faq#update)**]{.style1}
 
 ## Introduction
 
