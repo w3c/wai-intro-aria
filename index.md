@@ -52,13 +52,12 @@ This page describes the problems that WAI-ARIA addresses, and introduces
 the WAI-ARIA suite of technical documents. Many of the terms used in
 this page—including *Web content*, *user agent*s, and *assistive
 technology*—are described in [Introduction to Web
-Accessibility](/WAI/intro/accessibility.php) and [Essential Components
-of Web Accessibility](/WAI/intro/components). Additional information is
+Accessibility]({{ "/fundamentals/accessibility-intro/" | relative_url}}) and [Essential Components
+of Web Accessibility]({{ "/fundamentals/components/" | relative_url }}). Additional information is
 available in:
 
 -   Blog post [Accessible Rich Internet Applications (WAI-ARIA) 1.0 is a
-    W3C
-    Recommendation](/blog/2014/03/wai-aria-expands-web-accessibility)
+    W3C Recommendation](https://www.w3.org/blog/2014/03/wai-aria-expands-web-accessibility)
 -   Press release: [W3C's Accessible Rich Internet Applications
     (WAI-ARIA) 1.0 Expands Accessibility of the Open Web
     Platform](/2014/03/aria.html.en)
@@ -74,7 +73,7 @@ available in:
 {:/}
 
 ![tree control: a list of items with one of the list items expanded to
-show a sub-list]({{site.github.url}}/content-images/wai-intro-aria/tree-nav.png)
+show a sub-list]({{ "/content-images/wai-intro-aria/tree-nav.png" | relative_url }})
 
 {::nomarkdown}
 {% include box.html type="end" %}
