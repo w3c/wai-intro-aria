@@ -4,6 +4,11 @@ permalink: /standards-guidelines/aria/
 layout: default
 github:
   repository: w3c/wai-intro-aria
+feedbackmail: wai@w3.org
+footer: |
+  <p><strong>Date:</strong> Updated 15 January 2016. First published December 2006.</p>
+  <p><strong>Editor:</strong> <a href="https://www.w3.org/People/cooper/">Michael Cooper</a>.</p>
+  <p>Developed with input from the Accessible Rich Internet Applications Working Group (<a href="https://www.w3.org/WAI/ARIA/">ARIA WG</a>) and the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/EO/">EOWG</a>).</p>
 ---
 
 {::nomarkdown}
