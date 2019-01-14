@@ -19,6 +19,7 @@ This page introduces the WAI-ARIA, the Accessible Rich Internet Applications sui
 
 Quick links to resources:
 * [WAI-ARIA](/TR/wai-aria/)
+* [WAI-ARIA Authoring Practices](/TR/wai-aria-practices/)
 * [User Agent Implementation Guide](/TR/wai-aria-implementation/)
 * [FAQ](/WAI/aria/faq) - including [What is the current status of WAI-ARIA development?](/WAI/aria/faq#update)
 
