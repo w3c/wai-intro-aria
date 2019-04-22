@@ -148,12 +148,12 @@ WAI-ARIA provides Web authors with the following:
 
 ## Versions 1.0, 1.1, future
 
-[WAI-ARIA 1.0](/TR/wai-aria/) was published as a completed W3C
+* [WAI-ARIA 1.0](/TR/wai-aria/) was published as a completed W3C
 Recommendation on 20 March 2014.
 
-[WAI-ARIA 1.1](/TR/wai-aria-1.1/) is expected to include only a few
+* [WAI-ARIA 1.1](/TR/wai-aria-1.1/) is expected to include only a few
 changes from 1.0. [Most potential changes will be considered for
-WAI-ARIA 2.0.]{.listintro}
+WAI-ARIA 2.0.]
 
 The latest status is updated in the [FAQ: What is the current status of
 WAI-ARIA development?](/WAI/aria/faq#update)
