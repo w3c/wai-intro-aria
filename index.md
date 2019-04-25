@@ -1,5 +1,5 @@
 ---
-title: WAI-ARIA Overview
+title: Accessible Rich Internet Applications (WAI-ARIA) Overview
 permalink: /standards-guidelines/aria/
 layout: default
 github:
