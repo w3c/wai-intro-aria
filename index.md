@@ -163,7 +163,7 @@ WAI-ARIA development?](/WAI/aria/faq#update)
 The 1.1 version will extend WAI-ARIA 1.0 to provide a small number of
 features to complete the HTML + ARIA accessibility model. It is intended
 complement HTML 5.1. For 1.1, user agent implementation guidance is
-provided as a suite of accessbility API mapping specifications that
+provided as a suite of accessibility API mapping specifications that
 describe how to expose semantics of WAI-ARIA and other web content
 languages to accessibility APIs.
 
