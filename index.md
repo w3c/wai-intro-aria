@@ -148,26 +148,23 @@ WAI-ARIA provides Web authors with the following:
 
 ## Versions 1.0, 1.1, future {#versions}
 
-* [WAI-ARIA 1.0](/TR/wai-aria/) was published as a completed W3C
-Recommendation on 20 March 2014.
+* [WAI-ARIA 1.0](/TR/wai-aria/) was published as a completed W3C Recommendation on 20 March 2014.
 
-* [WAI-ARIA 1.1](/TR/wai-aria-1.1/) is expected to include only a few
-changes from 1.0. [Most potential changes will be considered for
-WAI-ARIA 2.0.]
+* [WAI-ARIA 1.1](/TR/wai-aria-1.1/) was published as a completed W3C Recommendation on 14 December 2017.
 
 The latest status is updated in the [FAQ: What is the current status of
 WAI-ARIA development?](/WAI/aria/faq#update)
 
 ### WAI-ARIA 1.1 {#wai-aria-1_1}
 
-The 1.1 version will extend WAI-ARIA 1.0 to provide a small number of
-features to complete the HTML + ARIA accessibility model. It is intended
+The 1.1 version extends WAI-ARIA 1.0 to provide a small number of
+features to complete the HTML + ARIA accessibility model. It intends
 complement HTML 5.1. For 1.1, user agent implementation guidance is
 provided as a suite of accessibility API mapping specifications that
 describe how to expose semantics of WAI-ARIA and other web content
 languages to accessibility APIs.
 
-Published WAI-ARIA 1.1 Working Drafts are as follows:
+Published WAI-ARIA 1.1 Documents are as follows:
 
 -   **[WAI-ARIA 1.1](/TR/wai-aria-1.1/) technical specification**,
     provides features to define accessible user interface elements and
