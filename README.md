@@ -1,6 +1,1 @@
-# wai-intro-aria
-
-Current Preview:
-
-https://w3c.github.io/wai-intro-aria/standards-guidelines/aria/
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/80e3cace-4c0d-478a-8b8f-9b529c0a6707/deploy-status)](https://app.netlify.com/sites/wai-intro-aria/deploys)
