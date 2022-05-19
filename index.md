@@ -6,8 +6,8 @@ github:
   repository: w3c/wai-intro-aria
 feedbackmail: wai@w3.org
 footer: |
-  <p><strong>Date:</strong> Updated 09 September 2020. First published December 2006.</p>
-  <p><strong>Editor:</strong> <a href="https://www.w3.org/People/cooper/">Michael Cooper</a>.</p>
+  <p><strong>Date:</strong> Updated 19 May 2022. First published December 2006.</p>
+  <p><strong>Editors:</strong> James Nurthen, <a href="https://www.w3.org/People/cooper/">Michael Cooper</a>, <a href="https://www.w3.org/People/shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Accessible Rich Internet Applications Working Group (<a href="https://www.w3.org/WAI/ARIA/">ARIA WG</a>) and the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/EO/">EOWG</a>).</p>
 ---
 
@@ -18,10 +18,10 @@ footer: |
 This page introduces the WAI-ARIA, the Accessible Rich Internet Applications suite of web standards.
 
 Quick links to resources:
-* [WAI-ARIA](/TR/wai-aria/)
-* [WAI-ARIA Authoring Practices](/TR/wai-aria-practices/)
+* [WAI-ARIA standard](/TR/wai-aria/)
+* [WAI-ARIA Authoring Practices Guide (APG)](/WAI/ARIA/apg)
 * [User Agent Implementation Guide](/TR/wai-aria-implementation/)
-* [FAQ](/WAI/aria/faq) - including [What is the current status of WAI-ARIA development?](/WAI/aria/faq#update)
+<!-- * [FAQ](/WAI/ARIA/faq) - including [What is the current status of WAI-ARIA development?](/WAI/ARIA/faq#update) -->
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -93,6 +93,12 @@ WAI-ARIA provides Web authors with the following:
 -   A way to provide keyboard navigation for the Web objects and events,
     such as those mentioned above
 
+## Authoring Practices Guide (APG)
+
+**[ARIA Authoring Practices Guide (APG)](/WAI/ARIA/apg)**, recommends approaches to help web application developers make widgets, navigation, and behaviors accessible using WAI-ARIA roles, states, and properties.
+
+It describes considerations that might not be evident to most authors from the WAI-ARIA specification, which is oriented primarily at user agent implementers.
+
 ## Versions {#versions}
 
 * [WAI-ARIA 1.0](/TR/wai-aria/) was published as a completed W3C
@@ -103,8 +109,8 @@ Recommendation on 14 December 2017.
 
 * [WAI-ARIA 1.2](/TR/wai-aria-1.2/) is under development.
 
-The latest status is updated in the [FAQ: What is the current status of
-WAI-ARIA development?](/WAI/aria/faq#update)
+<!-- The latest status is updated in the [FAQ: What is the current status of
+WAI-ARIA development?](/WAI/aria/faq#update) -->
 
 ### WAI-ARIA 1.2 {#wai-aria-1_2}
 
@@ -153,12 +159,6 @@ Published WAI-ARIA 1.2 Working Drafts are as follows:
     guidance for how the SVG user agent must respond to keyboard focus,
     native SVG features, and role, state and property attributes
     provided via WAI-ARIA.
--   **[WAI-ARIA Authoring Practices 1.2](/TR/wai-aria-practices-1.2/)**,
-    recommends approaches to help web application developers make
-    widgets, navigation, and behaviors accessible using WAI-ARIA roles,
-    states, and properties. It describes considerations that might not
-    be evident to most authors from the WAI-ARIA specification which is
-    oriented primarily at user agent implementers.
 
 Additional documents are expected in this suite, including other
 accessibility API mappings and updated authoring guidance. Editors'
@@ -194,4 +194,3 @@ sending comments is included in the "Status of this Document" section.
 
 Opportunities for contributing to WAI-ARIA and other WAI work are
 introduced in [Participating in WAI](/WAI/participation).
-
