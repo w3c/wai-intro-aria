@@ -21,7 +21,7 @@ Quick links to resources:
 * [WAI-ARIA standard](/TR/wai-aria/)
 * [WAI-ARIA Authoring Practices Guide (APG)](/WAI/ARIA/apg)
 * [User Agent Implementation Guide](/TR/wai-aria-implementation/)
-* [FAQ](/WAI/ARIA/faq) - including [What is the current status of WAI-ARIA development?](/WAI/ARIA/faq#update)
+<!-- * [FAQ](/WAI/ARIA/faq) - including [What is the current status of WAI-ARIA development?](/WAI/ARIA/faq#update) -->
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -93,6 +93,12 @@ WAI-ARIA provides Web authors with the following:
 -   A way to provide keyboard navigation for the Web objects and events,
     such as those mentioned above
 
+## Authoring Practices Guide (APG)
+
+**[ARIA Authoring Practices Guide (APG)](/WAI/ARIA/apg)**, recommends approaches to help web application developers make widgets, navigation, and behaviors accessible using WAI-ARIA roles, states, and properties.
+
+It describes considerations that might not be evident to most authors from the WAI-ARIA specification, which is oriented primarily at user agent implementers.
+
 ## Versions {#versions}
 
 * [WAI-ARIA 1.0](/TR/wai-aria/) was published as a completed W3C
@@ -103,14 +109,8 @@ Recommendation on 14 December 2017.
 
 * [WAI-ARIA 1.2](/TR/wai-aria-1.2/) is under development.
 
-The latest status is updated in the [FAQ: What is the current status of
-WAI-ARIA development?](/WAI/aria/faq#update)
-
-### Authoring Practices Guide (APG)
-
-**[ARIA Authoring Practices Guide (APG)](/WAI/ARIA/apg)**, recommends approaches to help web application developers make widgets, navigation, and behaviors accessible using WAI-ARIA roles, states, and properties.
-
-It describes considerations that might not be evident to most authors from the WAI-ARIA specification, which is oriented primarily at user agent implementers.
+<!-- The latest status is updated in the [FAQ: What is the current status of
+WAI-ARIA development?](/WAI/aria/faq#update) -->
 
 ### WAI-ARIA 1.2 {#wai-aria-1_2}
 
