@@ -82,13 +82,11 @@ WAI-ARIA provides Web authors with the following:
 -   Roles to describe the type of widget presented, such as "menu",
     "treeitem", "slider", and "progressbar"
 -   Roles to describe the structure of the Web page, such as headings,
-    regions, and tables (grids)
+    and regions
 -   Properties to describe the state widgets are in, such as "checked"
-    for a check box, or "haspopup" for a menu.
+    for a check box, or "readonly" for most form controls
 -   Properties to define live regions of a page that are likely to get
-    updates (such as stock quotes), as well as an interruption policy
-    for those updates—for example, critical updates may be presented in
-    an alert dialog box, and incidental updates occur within the page
+    updates (such as stock quotes)
 -   A way to provide keyboard navigation for the Web objects and events,
     such as those mentioned above
 
@@ -100,26 +98,23 @@ It describes considerations that might not be evident to most authors from the W
 
 ## Versions {#versions}
 
-* [WAI-ARIA 1.0](/TR/wai-aria/) was published as a completed W3C
-Recommendation on 20 March 2014.
+* [WAI-ARIA 1.2](/TR/wai-aria-1.2/) was published as a completed W3C 
+Recommendation on 06 June 2023.
 
-* [WAI-ARIA 1.1](/TR/wai-aria-1.1/) was published as a completed W3C
-Recommendation on 14 December 2017.
-
-* [WAI-ARIA 1.2](/TR/wai-aria-1.2/) is under development.
+* [WAI-ARIA 1.3] is under development.
 
 <!-- The latest status is updated in the [FAQ: What is the current status of
 WAI-ARIA development?](/WAI/aria/faq#update) -->
 
 ### WAI-ARIA 1.2 {#wai-aria-1_2}
 
-The 1.2 version will extend WAI-ARIA 1.1 to provide a small number of
-features to complete the HTML + ARIA accessibility model. For 1.2, user 
+The 1.2 version extends WAI-ARIA 1.1 to add a small number of
+features to the HTML + ARIA accessibility model. For 1.2, user 
 agent implementation guidance is provided as a suite of accessibility 
 API mapping specifications that describe how to expose semantics of 
 WAI-ARIA and other web content languages to accessibility APIs.
 
-Published WAI-ARIA 1.2 Working Drafts are as follows:
+Published WAI-ARIA Specifications are as follows:
 
 -   **[WAI-ARIA 1.2](/TR/wai-aria-1.2/) technical specification**,
     provides features to define accessible user interface elements and
@@ -135,20 +130,21 @@ Published WAI-ARIA 1.2 Working Drafts are as follows:
     keyboard navigation support and mapping of general-purpose WAI-ARIA
     features; other specifications will extend this for specific
     technologies.
--   **[Accessible Name and Description: Computation and API Mappings
-    1.2](/TR/accname-1.2/)**, describes how user agents determine
+-   **[Accessible Name and Description Computation 1.2](/TR/accname-1.2/)**, 
+    describes how user agents determine
     names and descriptions of accessible objects from web content
     languages and expose them in accessibility APIs. This allows
     assistive technologies to associate and relay the name or
     description of objects to users.
 -   **[HTML Accessibility API Mappings 1.0](/TR/html-aam-1.0/)**,
-    extends Core Accessibility API Mappings 1.2 and Accessible Name and
-    Description: Computation and API Mappings 1.2 to define how user
-    agents map HTML markup to platform accessibility application
-    programming interfaces (APIs). Provides HTML-specific guidance for
-    how the HTML user agent must respond to keyboard focus, native HTML
-    features, and role, state and property attributes provided via
-    WAI-ARIA.
+    defines how user agents map HTML elements and attributes to 
+    platform accessibility application programming interfaces (APIs). 
+    It leverages and extends the Core Accessibility API Mappings 1.2 and 
+    the Accessible Name and Description Computation 1.2 for use with the 
+    HTML host language. Documenting these mappings promotes interoperable 
+    exposure of roles, states, properties, and events implemented by 
+    accessibility APIs and helps to ensure that this information appears 
+    in a manner consistent with author intent.
 -   **[SVG Accessibility API Mappings 1.0](/TR/svg-aam-1.0/)**, extends
     Core Accessibility API Mappings 1.2 to define how user agents map
     SVG markup to platform accessibility application programming
@@ -162,7 +158,7 @@ Published WAI-ARIA 1.2 Working Drafts are as follows:
 Additional documents are expected in this suite, including other
 accessibility API mappings and updated authoring guidance. Editors'
 drafts under development can be accessed in the [WAI-ARIA GitHub
-Repository](https://github.com/w3c/aria/).
+Repositories](https://www.w3.org/groups/wg/aria/tools).
 
 *W3C Recommendations* and *Working Group Notes* are briefly explained in
 [How WAI Develops Accessibility Guidelines through the W3C
