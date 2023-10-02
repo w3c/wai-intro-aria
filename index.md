@@ -11,6 +11,7 @@ footer: |
   <p>Developed with input from the Accessible Rich Internet Applications Working Group (<a href="https://www.w3.org/WAI/ARIA/">ARIA WG</a>) and the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/EO/">EOWG</a>).</p>
 ---
 
+
 {::nomarkdown}
 {% include box.html type="start" h="2" title="Summary" class="full" %}
 {:/}
