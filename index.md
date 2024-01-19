@@ -106,6 +106,8 @@ Recommendation on 06 June 2023.
   * new attributes: aria-description, aria-braillelabel, aria-brailleroledescription
   * updates to aria-details to allow multiple IDREFS
 
+Additional changes are in the [changelog](https://www.w3.org/TR/wai-aria-1.3/#changelog)
+
 <!-- The latest status is updated in the [FAQ: What is the current status of
 WAI-ARIA development?](/WAI/aria/faq#update) -->
 
