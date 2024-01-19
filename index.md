@@ -101,7 +101,10 @@ It describes considerations that might not be evident to most authors from the W
 * [WAI-ARIA 1.2](/TR/wai-aria-1.2/) was published as a completed W3C 
 Recommendation on 06 June 2023.
 
-* [WAI-ARIA 1.3](/TR/wai-aria-1.3/) is under development. First Public Working Draft (FPWD) was published 23 January 2024.
+* [WAI-ARIA 1.3](/TR/wai-aria-1.3/) is under development. Proposed changes from ARIA 1.2 include:
+  * new roles: suggestion, comment, mark
+  * new attributes: aria-description, aria-braillelabel, aria-brailleroledescription
+  * updates to aria-details to allow multiple IDREFS
 
 <!-- The latest status is updated in the [FAQ: What is the current status of
 WAI-ARIA development?](/WAI/aria/faq#update) -->
