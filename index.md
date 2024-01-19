@@ -99,12 +99,13 @@ It describes considerations that might not be evident to most authors from the W
 ## Versions {#versions}
 
 [WAI-ARIA 1.2](/TR/wai-aria-1.2/) was published as a completed W3C 
-Recommendation on 06 June 2023.
+Recommendation on 6 June 2023.
 
-[WAI-ARIA 1.3](/TR/wai-aria-1.3/) is under development. Proposed changes from ARIA 1.2 include:
+[WAI-ARIA 1.3 Draft](/TR/wai-aria-1.3/) is under development. Proposed changes from ARIA 1.2 include:
 * new roles: suggestion, comment, mark
 * new attributes: aria-description, aria-braillelabel, aria-brailleroledescription
-* updates to aria-details to allow multiple IDREFS
+* updates to aria-details to allow multiple IDrefs
+
 Additional changes are in the [changelog](https://www.w3.org/TR/wai-aria-1.3/#changelog)
 
 ### WAI-ARIA 1.2 {#wai-aria-1_2}
