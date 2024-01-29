@@ -6,7 +6,7 @@ github:
   repository: w3c/wai-intro-aria
 feedbackmail: wai@w3.org
 footer: |
-  <p><strong>Date:</strong> Updated 19 May 2022. First published December 2006.</p>
+  <p><strong>Date:</strong> Updated 23 January 2024. First published December 2006.</p>
   <p><strong>Editors:</strong> James Nurthen, <a href="https://www.w3.org/People/cooper/">Michael Cooper</a>, <a href="https://www.w3.org/People/shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Accessible Rich Internet Applications Working Group (<a href="https://www.w3.org/WAI/ARIA/">ARIA WG</a>) and the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/EO/">EOWG</a>).</p>
 ---
@@ -98,13 +98,15 @@ It describes considerations that might not be evident to most authors from the W
 
 ## Versions {#versions}
 
-* [WAI-ARIA 1.2](/TR/wai-aria-1.2/) was published as a completed W3C 
-Recommendation on 06 June 2023.
+[WAI-ARIA 1.2](/TR/wai-aria-1.2/) was published as a completed W3C 
+Recommendation on 6 June 2023.
 
-* [WAI-ARIA 1.3] is under development.
+[WAI-ARIA 1.3 Draft](/TR/wai-aria-1.3/) is under development. Proposed changes from ARIA 1.2 include:
+* new roles: suggestion, comment, mark
+* new attributes: aria-description, aria-braillelabel, aria-brailleroledescription
+* updates to aria-details to allow multiple IDrefs
 
-<!-- The latest status is updated in the [FAQ: What is the current status of
-WAI-ARIA development?](/WAI/aria/faq#update) -->
+Additional changes are in the [changelog](https://www.w3.org/TR/wai-aria-1.3/#changelog).
 
 ### WAI-ARIA 1.2 {#wai-aria-1_2}
 
