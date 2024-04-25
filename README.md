@@ -1,1 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/80e3cace-4c0d-478a-8b8f-9b529c0a6707/deploy-status)](https://app.netlify.com/sites/wai-intro-aria/deploys)
+> [!IMPORTANT]
+> This repository has been archived 29 April 2024.
+>
+> [WAI-ARIA Overview](https://www.w3.org/WAI/standards-guidelines/aria/) is now edited in the [wai-website](https://github.com/w3c/wai-website) repository.
